@@ -2,10 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/Bruhforever/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Bruhforever/azure-network-protocols)
+- <b>Microsoft Azure Deployment</b>
+  - https://github.com/Bruhforever/Azure-Cloud-Deployment
 
 <h2>🤳Connect with me:</h2>
 
